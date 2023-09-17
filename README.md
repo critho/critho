@@ -6,7 +6,8 @@ Ich bin ein Indie Game Developer und Streamer. Ich freue mich immer wieder darau
 <p align="left">
 <a href="https://dev.to/critho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="critho" height="30" width="40" /></a>
 <a href="https://discord.com/users/890977560098377728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/890977560098377728" height="30" width="40" />
-[![twitch](https://github.com/critho/critho/assets/138388003/bd1a91b8-ad59-4ef4-9858-ae1650b462c8)](https://www.twitch.tv/decritho)
+[![twitch]()](https://www.twitch.tv/decritho)
+<a href="https://twitch.tv/critho" target="blank"><img align="center" src="https://github.com/critho/critho/assets/138388003/bd1a91b8-ad59-4ef4-9858-ae1650b462c8" alt="critho" height="30" width="40" /></a>
 
 </a>
 </p>
