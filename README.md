@@ -1,12 +1,12 @@
-<h3 align="center">
+<h4 align="center">
  
-- 🔭 I’m currently working on **Project TVP**
+🔭 I’m currently working on **Project TVP**
 
-- 📫 How to reach me **critho.contact@gmail.com**
+📫 How to reach me **critho.contact@gmail.com**
 
  🌐 WEB
 
-   </h3>
+   </h4>
   <h3 align="center">
    
   ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
