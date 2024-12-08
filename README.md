@@ -1,5 +1,3 @@
-<img src="https://github.com/critho/critho/assets/138388003/22732ba9-7f77-4430-b2a7-b2e6c791d06b" align="center"/>
-
 <h1 align="center">
   👋 Hallu, ik bims, Critho 👋
 
