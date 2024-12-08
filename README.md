@@ -1,18 +1,4 @@
-<h1 align="center">
-  👋 Hallu, ik bims, Critho 👋
-
-</h1>
-<h2 align="center">Indie Horror Game Developer</h2>
-
-
-
-  <h2 align="center">
-
- 💻 Tech Stack
-
-   </h2>
-
-  <h3 align="center">
+<h3 align="center">
 
  🌐 WEB
 
