@@ -19,7 +19,7 @@
 
   ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=Java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
-  ![Unreal](https://img.shields.io/badge/UnrealEngine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![Unreal](https://img.shields.io/badge/Unreal-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
 
    </h3>
         <h3 align="center">
