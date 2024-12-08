@@ -1,8 +1,8 @@
+<h3 align="center">
+ 
 - 🔭 I’m currently working on **Project TVP**
 
 - 📫 How to reach me **critho.contact@gmail.com**
-
-<h3 align="center">
 
  🌐 WEB
 
