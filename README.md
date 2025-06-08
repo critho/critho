@@ -1,8 +1,13 @@
-🔭 I’m currently working on **Project TVP**
+<h1 align="center">
+  Hi there! I’m Critho
+</h1>
+<h2 align="center">A game designer and developer based in Germany</h2>
 
-📫 How to reach me **critho.contact@gmail.com**
 
 
+I love to offer people a great experience in the form of video games.
+
+Outside of game design, you’ll find me gaming, hitting the gym, or editing videos. I also enjoy posting on [**social media**](https://www.critho.social), sharing my interests.
 
    👨‍💻 Programming Languages:
 
@@ -21,16 +26,8 @@
 
 
 
+  #### Fun Facts:
 
-  ### Hi there!
-
-I’m [**Critho**](https://www.critho.social), a game designer and developer based in Germany.
-
-I love to offer people a great experience in the form of video games.
-
-Outside of game design, you’ll find me gaming, hitting the gym, or editing videos. I also enjoy posting on social media, sharing my interests.
-
-#### Fun Facts:
-
-* I don’t like coffee or tea.
-* Demon Slayer is my favorite anime.
+* I love Energy Drinks.
+* ERASED is my favorite anime.
+* My fav. band is Linkin Park
