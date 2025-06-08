@@ -1,39 +1,36 @@
-<h4 align="center">
- 
 🔭 I’m currently working on **Project TVP**
 
 📫 How to reach me **critho.contact@gmail.com**
 
- 🌐 WEB
 
-   </h4>
-  <h3 align="center">
-   
-  ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-   </h3>
-     <h3 align="center">
+   👨‍💻 Programming Languages:
 
-   👨‍💻 Programming
+  ![Cplusplus](https://img.shields.io/badge/C%2B%2B-%2342b3f5?style=for-the-badge&logo=cplusplus)
+  ![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=openjdk&logoColor=white)
 
-   </h3>
-        <h3 align="center">
+   🔨 Tools i use:
 
-  ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=Java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
-  ![Unreal](https://img.shields.io/badge/Unreal-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-   </h3>
-        <h3 align="center">
+  ![UE](https://img.shields.io/badge/UnrealEngine-gray?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![IJI](https://img.shields.io/badge/IntelliJIdea-white?style=for-the-badge&logo=intellijidea&logoColor=black)
 
    🖥️ Server Operating Systems
 
-   </h3>
-           <h3 align="center">
-
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  
-   </h3>
+
+
+
+
+  ### Hi there!
+
+I’m [**Critho**](https://www.critho.social), a game designer and developer based in Germany.
+
+I love to offer people a great experience in the form of video games.
+
+Outside of game design, you’ll find me gaming, hitting the gym, or editing videos. I also enjoy posting on social media, sharing my interests.
+
+#### Fun Facts:
+
+* I don’t like coffee or tea.
+* Demon Slayer is my favorite anime.
