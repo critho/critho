@@ -28,6 +28,6 @@ Outside of game design, you’ll find me gaming, hitting the gym, or editing vid
 
   #### Fun Facts:
 
-* I love Energy Drinks.
-* ERASED is my favorite anime.
-* My fav. band is Linkin Park
+* Love's Energy Drinks.
+* Favorite anime ERASED.
+* Fav. band -> Linkin Park
