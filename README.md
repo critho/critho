@@ -3,7 +3,7 @@
 </h1>
 <h2 align="center">An Indie Horror Game Developer and Software Developer</h2>
 
-<img align="right" height="275" src="https://cdn.discordapp.com/attachments/1177908177434583061/1423045786593136803/CHISATO_ICON.jpeg?ex=68dee22a&is=68dd90aa&hm=4ca4374f2ba7527c8a2e1a6bf0c2ac79cac28bba3aaf07514082ee63a4e896fb&"/>
+<img align="right" height="275" src="https://cdn.discordapp.com/attachments/1226932993743126570/1423046642059444275/CHISATO_ICON.jpeg?ex=68dee2f6&is=68dd9176&hm=4ae6ed78d48bc9fb332b0be4aaaff9ec985d11280b323a29d438672827fb679b&"/>
 
 
 <p>I love to offer people a great experience in the form of video games.
