@@ -1,13 +1,21 @@
 <h1 align="center">Hewwu, I'm Critho 🦕</h1>
 <p align="center">Horror Game Developer & Software Engineer</p>
 
-<img src="https://github.com/critho/critho/blob/main/Credentix%20Logo.png?raw=true" align="right" width="275"/>
-
 <br><br>
+I love creating immersive experiences through video games and software.
+Outside of coding, you'll often find me experimenting with tech in my home lab ⚙️, editing videos 🎬, cooking 🍳, or listening to music 🎵.
+<br><br>
+I enjoy combining my love for IT and storytelling to craft engaging game experiences that challenge and entertain players.
+I'm especially passionate about atmosphere, tension, and player immersion — designing worlds that feel alive, unsettling, and memorable.
+<br><br>
+Whether it's building game mechanics, designing systems, or working on backend logic, I enjoy solving complex problems and continuously improving my skills.
+I like diving deep into how things work under the hood and turning ideas into fully functional projects.
+<br><br>
+I'm also interested in backend development, automation, and creating tools that make workflows more efficient — from Discord bots to full applications with database integration.
+<br><br>
+In the long run, I aim to create unique games that leave a lasting impression and push my creativity further with every project 🚀
 
-I love creating immersive experiences through video games and software.  
-Outside of coding, you'll often find me experimenting with tech in my home lab ⚙️, editing videos 🎬, cooking 🍳, or listening to music 🎵.  
-<br><br>I enjoy combining my love for IT and storytelling to craft engaging game experiences that challenge and entertain players<br><br><br><br>
+<br>
 <hr style="border: 1px solid #444;"/>
 
 <p align="center"><b>👨‍💻 Programming Languages</b></p>
