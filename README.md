@@ -40,6 +40,7 @@ Outside of coding, you'll often find me experimenting with tech in my home lab �
 <ul>
   <li><b>Backroom Singleplayer Horror Survival Game</b> – Currently in development. Explore eerie, maze-like backrooms, survive hidden horrors, and uncover dark mysteries.</li>
   <li><b>Password Manager</b> – Currently in development. A secure and user-friendly app to safely store and manage passwords 🔐.</li>
+  <li><b>Discord Livestream Notification Bot</b> – Automatically sends alerts when a streamer goes live, so you never miss a stream 🔔.</li>
 </ul>
 
 <h4 align="center">🛠 Games in Planning</h4>
