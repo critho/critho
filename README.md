@@ -47,7 +47,6 @@ In the long run, I aim to create unique games that leave a lasting impression an
 <h3 align="center">🎮 Current Projects</h3>
 <ul>
   <li><b>Backroom Singleplayer Horror Survival Game</b> – Currently in development. Explore eerie, maze-like backrooms, survive hidden horrors, and uncover dark mysteries.</li>
-  <li><b>Password Manager</b> – Currently in development. A secure and user-friendly app to safely store and manage passwords 🔐.</li>
   <li><b>Discord Livestream Notification Bot</b> – Automatically sends alerts when a streamer goes live, so you never miss a stream 🔔.</li>
 </ul>
 
