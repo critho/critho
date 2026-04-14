@@ -1,21 +1,11 @@
 <h1 align="center">Hewwu, I'm Critho 🦕</h1>
 <p align="center">Horror Game Developer & Software Engineer</p>
-
-<br><br>
-I love creating immersive experiences through video games and software.
-Outside of coding, you'll often find me experimenting with tech in my home lab ⚙️, editing videos 🎬, cooking 🍳, or listening to music 🎵.
-<br><br>
-I enjoy combining my love for IT and storytelling to craft engaging game experiences that challenge and entertain players.
-I'm especially passionate about atmosphere, tension, and player immersion — designing worlds that feel alive, unsettling, and memorable.
-<br><br>
-Whether it's building game mechanics, designing systems, or working on backend logic, I enjoy solving complex problems and continuously improving my skills.
-I like diving deep into how things work under the hood and turning ideas into fully functional projects.
-<br><br>
-I'm also interested in backend development, automation, and creating tools that make workflows more efficient — from Discord bots to full applications with database integration.
-<br><br>
-In the long run, I aim to create unique games that leave a lasting impression and push my creativity further with every project 🚀
-
 <br>
+I love creating immersive experiences through video games and software. Outside of coding, I enjoy experimenting with tech ⚙️, editing videos 🎬, cooking 🍳, and listening to music 🎵.
+<br><br>
+I combine my passion for IT and storytelling to build engaging game experiences, focusing on atmosphere, tension, and immersion. I enjoy solving complex problems, developing systems, and turning ideas into functional projects, while also exploring backend development, automation, and tools that improve workflows. My goal is to create unique, memorable games and continuously push my creativity 🚀
+
+<br><br>
 <hr style="border: 1px solid #444;"/>
 
 <p align="center"><b>👨‍💻 Programming Languages</b></p>
