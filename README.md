@@ -29,7 +29,7 @@ I combine my passion for IT and storytelling to build engaging game experiences,
 <h3 align="center">🎮 Current Projects</h3>
 <ul>
   <li><b>Backroom Singleplayer Horror Survival Game</b> – Currently in development. Explore eerie, maze-like backrooms, survive hidden horrors, and uncover dark mysteries.</li>
-  <li><b>Discord Livestream Notification Bot</b> – Automatically sends alerts when a streamer goes live, so you never miss a stream 🔔.</li>
+  <li><b>Discord allrounder Bot</b> – A moderation bot with a full case system, incident tracking, and server management — all managed through your own dashboard.</li>
 </ul>
 
 <h4 align="center">🛠 Games in Planning</h4>
